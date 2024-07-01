@@ -29,7 +29,7 @@ F.Sc. in Pre-Engineering</p><br>
 <p>💻 Introduction to Structured Query Language (SQL) from <a href="https://www.linkedin.com/school/university-of-michigan/">University of Michigan</a> Credential URL: <a href="https://www.coursera.org/account/accomplishments/records/VE9K249MSRRX">Certificate</a></p><br>
 
 <h3>Volunteering 🤝</h3>
-<p>🎨 Graphic Designer at <a href="https://www.linkedin.com/company/femcodesofficial/">FEMCodes</a> (Science and Technology)</p>
+<p>🎨 Graphic Designer at <a href="https://www.linkedin.com/company/femcodesofficial/">FEMCodes</a> (Science and Technology)</p> <br>
 
 <h3>Currently Pursuing 📚</h3>
 <p>🔍 Data Structures and Algorithms (DSA)</p>
@@ -79,6 +79,7 @@ F.Sc. in Pre-Engineering</p><br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
+<br>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesh-07&show_icons=true&locale=en&layout=compact" alt="ayesh-07" /></p>
