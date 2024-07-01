@@ -33,7 +33,7 @@ F.Sc. in Pre-Engineering</p><br>
 
 <h3>Currently Pursuing 📚</h3>
 <p>🔍 Data Structures and Algorithms (DSA)</p>
-<p>👯 I’m looking to collaborate on Open Source Projects</p>
+<p>👯 I’m looking to collaborate on Open Source Projects</p> <br>
 
 
 <h3 align="left">Connect with me: 🌐</h3>
