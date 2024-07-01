@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
 
 - 👯 I’m looking to collaborate on **Open Souce Projects**
