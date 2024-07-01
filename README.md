@@ -8,10 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
 
-<h3>Licenses & certifications</h3>
-<p>Cs50x Puzzle Competition Winner Apirl 2024 from <a href= "https://www.linkedin.com/school/harvard-university/" > Harvard University </a>  <a href= "https://certificates.cs50.io/f5b6cd28-e08d-4809-bcc0-f556a3140b36.pdf?size=letter" > Certifcate</a></p>
-<p>Student, Code in Place - Stanford University 2024  from <a href= "https://www.linkedin.com/company/stanford-university-code-in-place/" > Stanford University</a> <a href= "https://codeinplace.stanford.edu/cip4/certificate/z6ya7l" > Certifcate</a></p>
-<p>Introduction to Structured Query Language (SQL) from <a href= "https://www.linkedin.com/school/university-of-michigan/" >University of Michigan</a> <a href= "https://www.coursera.org/account/accomplishments/records/VE9K249MSRRX" > Certifcate</a> </p>
+<h3>Licenses & Certifications 🏅</h3>
+<p>🏆 CS50x Puzzle Competition Winner April 2024 from <a href="https://www.linkedin.com/school/harvard-university/">Harvard University</a> Credential URL: <a href="https://certificates.cs50.io/f5b6cd28-e08d-4809-bcc0-f556a3140b36.pdf?size=letter">Certificate</a></p>
+<p>👨‍🎓 Student, Code in Place - Stanford University 2024 from <a href="https://www.linkedin.com/company/stanford-university-code-in-place/">Stanford University</a> Credential URL: <a href="https://codeinplace.stanford.edu/cip4/certificate/z6ya7l">Certificate</a></p>
+<p>💻 Introduction to Structured Query Language (SQL) from <a href="https://www.linkedin.com/school/university-of-michigan/">University of Michigan</a> Credential URL: <a href="https://www.coursera.org/account/accomplishments/records/VE9K249MSRRX">Certificate</a></p>
+
+<h3>Volunteering 🤝</h3>
+<p>🎨 Graphic Designer at <a href="https://www.linkedin.com/company/femcodesofficial/">FEMCodes</a> (Science and Technology)</p>
 
 - 👯 I’m looking to collaborate on **Open Souce Projects**
 
