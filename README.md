@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
  
  <section class="section">
-        <h2 align="center"> Inspiration</h2
-  <blockquote class="quote" align="left">
+  
+  <blockquote align="center" >
          "Verily, Allah loves those who are excellent." (Quran 2:195) 
   </blockquote>
+  <br>
   <br>
  
    <p align="center">
         <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="500" alt="Girl using laptop">
-</p>
+   </p>
     </section>
 
 
