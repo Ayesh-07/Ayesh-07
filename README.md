@@ -9,7 +9,7 @@
   <br>
  
    <p align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="450" alt="Girl using laptop">
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="400" alt="Girl using laptop">
    </p>
     </section>
 
