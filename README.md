@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
+<p align="center">
+  <img src="https://example.com/image.jpg" width="300" alt="Girl using laptop">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
