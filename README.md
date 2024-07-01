@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">I'm Ayesha Nudrat, a computer science student with a love for journaling. I thrive on pushing myself out of my comfort zone with self-assigned challenges. I enjoy tackling complex problems, learning new skills, and finding joy in problem-solving and growth. Overcoming obstacles and seeing progress is incredibly rewarding.</h3>
 
 <p align="right">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="650" alt="Girl using laptop">
