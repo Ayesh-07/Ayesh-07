@@ -2,11 +2,16 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="900" alt="Girl using laptop">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="800" alt="Girl using laptop">
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
+
+<h3>Licenses & certifications</h3>
+<p>Cs50x Puzzle Competition Winner Apirl 2024 from <a href= "https://www.linkedin.com/school/harvard-university/" > Harvard University </a>  <a href= "https://certificates.cs50.io/f5b6cd28-e08d-4809-bcc0-f556a3140b36.pdf?size=letter" ></a></p>
+<p>Student, Code in Place - Stanford University 2024  from <a href= "https://www.linkedin.com/company/stanford-university-code-in-place/" > Stanford University</a> <a href= "https://codeinplace.stanford.edu/cip4/certificate/z6ya7l" ></a></p>
+<p>Introduction to Structured Query Language (SQL) from <a href= "https://www.linkedin.com/school/university-of-michigan/" >University of Michigan</a> <a href= "https://www.coursera.org/account/accomplishments/records/VE9K249MSRRX" ></a></p>
 
 - 👯 I’m looking to collaborate on **Open Souce Projects**
 
