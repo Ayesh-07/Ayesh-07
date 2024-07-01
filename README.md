@@ -2,11 +2,17 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="800" alt="Girl using laptop">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="650" alt="Girl using laptop">
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
+
+<h3>Education 🎓</h3>
+<p>🎓 <a href="https://www.linkedin.com/school/virtual-university-of-pakistan/">Virtual University of Pakistan</a><br>
+Bachelor's in Computer Science</p>
+<p>🏫 <a href="https://www.linkedin.com/school/pgcworld/">Punjab Group Of Colleges</a><br>
+F.Sc. in Pre-Engineering</p>
 
 <h3>Licenses & Certifications 🏅</h3>
 <p>🏆 CS50x Puzzle Competition Winner April 2024 from <a href="https://www.linkedin.com/school/harvard-university/">Harvard University</a> Credential URL: <a href="https://certificates.cs50.io/f5b6cd28-e08d-4809-bcc0-f556a3140b36.pdf?size=letter">Certificate</a></p>
@@ -16,7 +22,10 @@
 <h3>Volunteering 🤝</h3>
 <p>🎨 Graphic Designer at <a href="https://www.linkedin.com/company/femcodesofficial/">FEMCodes</a> (Science and Technology)</p>
 
-- 👯 I’m looking to collaborate on **Open Souce Projects**
+<h3>Currently Pursuing 📚</h3>
+<p>🔍 Data Structures and Algorithms (DSA)</p>
+<p>👯 I’m looking to collaborate on Open Source Projects</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
