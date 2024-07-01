@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1TVDj1712E-A9Oj4JrM9obDUwxr8HVqWv/view?usp=sharing" width="300" alt="Girl using laptop">
+  <img src="https://drive.google.com/file/d/1TVDj1712E-A9Oj4JrM9obDUwxr8HVqWv/view" width="300" alt="Girl using laptop">
 </p>
 
 
