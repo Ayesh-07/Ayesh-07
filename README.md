@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-<p align="left"> <img src="https://www.bing.com/images/create/create-a-3d-illustration-of-an-animated-character-/1-6682647e40c84234a1534942aad97a6f?id=8tZ1%2fhRdEDdPHrG47CojlQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.KM71pRQ4RauV122jJ2M3&FORM=GCRIDP&ajaxhist=0&ajaxserp=0" alt="ayesh-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
 
 - 👯 I’m looking to collaborate on **Open Souce Projects**
 
