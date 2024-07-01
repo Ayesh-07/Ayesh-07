@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="right">
-  <img src="https://medium.com/nerd-for-tech/how-i-made-gif-from-lo-fi-hip-hop-girl-images-with-python-952a7cc57d8f" width="300" alt="Girl using laptop">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="300" alt="Girl using laptop">
 </p>
 
 
