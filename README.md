@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
-<h2 align="center"> "Verily, Allah loves those who are excellent." (Quran 2:195)</h2>
+ <section class="section">
+        <h2>Quranic Inspiration</h2>
+        <p class="quote">"Verily, Allah loves those who are excellent." (Quran 2:195)</p>
+        <p>This verse emphasizes Allah's preference for excellence in all aspects of life, including our skills and abilities. It guides my commitment to strive for competence and proficiency in my academic pursuits and professional endeavors, particularly in coding and programming. I aim to embody this principle by continuously improving my skills and delivering high-quality work in everything I do.</p>
+    </section>
 
 <p align="right">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="650" alt="Girl using laptop">
