@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/18/d0/3b/18d03b1da4185c82f21e52d1144c5e03.jpg" width="300" alt="Girl using laptop">
+<p align="right">
+  <img src="https://medium.com/nerd-for-tech/how-i-made-gif-from-lo-fi-hip-hop-girl-images-with-python-952a7cc57d8f" width="300" alt="Girl using laptop">
 </p>
 
 
