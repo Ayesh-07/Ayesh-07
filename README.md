@@ -7,7 +7,7 @@
   </blockquote>
   <br>
   <blockquote class="quote" align="left">
-  "Any fool can write code that a computer can understand.< br> Good programmers write code that humans can understand." - Martin Fowler
+  "Any fool can write code that a computer can understand."< br> "Good programmers write code that humans can understand." - Martin Fowler
 </blockquote>
         <p align="right">
         <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="500" alt="Girl using laptop">
