@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
  <section class="section">
-        <h2 align="left"> Inspiration</h2>
+        <h2 align="left"> Inspiration</h2><br><br>
         <p class="quote" align="left">"Verily, Allah loves those who are excellent." (Quran 2:195)</p>
+         <blockquote>
+  "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+</blockquote>
         <p align="right">
         <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="500" alt="Girl using laptop">
 </p>
