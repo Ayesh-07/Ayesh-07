@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayesha Nudrat</h1>
  <section class="section">
-        <h2>Quranic Inspiration</h2>
+        <h2 align="left"> Inspiration</h2>
         <p class="quote" align="left">"Verily, Allah loves those who are excellent." (Quran 2:195)</p>
-  <p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="350" alt="Girl using laptop">
+        <p align="right">
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="500" alt="Girl using laptop">
 </p>
     </section>
 
-<p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="650" alt="Girl using laptop">
-</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-07" /> </p>
