@@ -2,7 +2,6 @@
  <section class="section">
         <h2>Quranic Inspiration</h2>
         <p class="quote">"Verily, Allah loves those who are excellent." (Quran 2:195)</p>
-        <p>This verse emphasizes Allah's preference for excellence in all aspects of life, including our skills and abilities. It guides my commitment to strive for competence and proficiency in my academic pursuits and professional endeavors, particularly in coding and programming. I aim to embody this principle by continuously improving my skills and delivering high-quality work in everything I do.</p>
     </section>
 
 <p align="right">
