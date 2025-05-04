@@ -2,9 +2,7 @@
  
  <section class="section">
   
-  <blockquote align="center" >
-         "Verily, Allah loves those who are excellent." (Quran 2:195) 
-  </blockquote>
+ >
   <br>
   <br>
  
